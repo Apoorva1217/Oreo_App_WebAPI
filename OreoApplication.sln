@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OreoApplication", "OreoApplication\OreoApplication.csproj", "{FF945B96-19A0-4F7D-BFB2-3AF214FDE62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OreoAppBusinessLayer", "OreoAppBusinessLayer\OreoAppBusinessLayer.csproj", "{BE328B1B-7AAA-42BA-948C-680ED6F0D5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OreoAppCommonLayer", "OreoAppCommonLayer\OreoAppCommonLayer.csproj", "{A64D8ED0-F254-47A2-B8D9-FBD75F4BEB07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OreoAppRepositoryLayer", "OreoAppRepositoryLayer\OreoAppRepositoryLayer.csproj", "{2D6D6012-D337-425B-843F-566AF4D12606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF945B96-19A0-4F7D-BFB2-3AF214FDE62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF945B96-19A0-4F7D-BFB2-3AF214FDE62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF945B96-19A0-4F7D-BFB2-3AF214FDE62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF945B96-19A0-4F7D-BFB2-3AF214FDE62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE328B1B-7AAA-42BA-948C-680ED6F0D5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE328B1B-7AAA-42BA-948C-680ED6F0D5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE328B1B-7AAA-42BA-948C-680ED6F0D5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE328B1B-7AAA-42BA-948C-680ED6F0D5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64D8ED0-F254-47A2-B8D9-FBD75F4BEB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64D8ED0-F254-47A2-B8D9-FBD75F4BEB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64D8ED0-F254-47A2-B8D9-FBD75F4BEB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64D8ED0-F254-47A2-B8D9-FBD75F4BEB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6D6012-D337-425B-843F-566AF4D12606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6D6012-D337-425B-843F-566AF4D12606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6D6012-D337-425B-843F-566AF4D12606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6D6012-D337-425B-843F-566AF4D12606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0715A887-2ACC-47C8-BE60-D912F196A8E1}
+	EndGlobalSection
+EndGlobal
